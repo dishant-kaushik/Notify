@@ -56,8 +56,5 @@ Flask Web Application/
 │-- README.md           # Project documentation
 ```
 
-## Troubleshooting
-- If `flask run` gives an error, ensure you are in the virtual environment.
-- If the app cannot find templates, check that `templates/` is correctly structured.
-- If `TemplateNotFound` appears, verify that the `render_template()` paths match your folder structure.
+
 
